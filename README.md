@@ -82,7 +82,7 @@ The notebook includes:
 - 📈 Line Charts
 - 🔵 Scatter Plots
 
-These visualizations help identify trends and support business decision-making.
+
 
 ---
 
@@ -163,11 +163,8 @@ jupyter notebook Superstore_Analysis.ipynb
 
 ---
 
-## 📄 License
 
-This project is for educational and portfolio purposes.
 
----
 
 ## 👩‍💻 Author
 
